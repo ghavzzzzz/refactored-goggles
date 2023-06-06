@@ -1,0 +1,49 @@
+.header{
+
+    font-size: 23px;
+    width: 100%;
+    margin: 0px;
+}
+.anything{
+    font-size: 15px;
+    color: black;
+}
+body{
+
+    background-color: cover;
+}
+.spe{
+
+    float: left;
+}
+.voe{
+
+    float: right;
+}
+.di{
+
+    width: 200px;
+    border-radius: 100px;
+    
+}
+#moo{
+
+    font-size: 23px;
+    margin: 15px;
+}
+#koo{
+
+    font-size: 23px;
+    margin: 15px;
+}
+
+.pb{
+
+    width: 130px;
+    font-size: 25px;
+}
+canvas{
+
+    border: 7px ridge red;
+    border-radius: 20px;
+}
